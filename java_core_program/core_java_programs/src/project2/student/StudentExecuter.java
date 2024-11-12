@@ -10,22 +10,22 @@ public class StudentExecuter {
 		Student s3 = new Student();
 		
 		
-		s1.setSid("421121104004");
-		s1.setSname("Alwin Donald");
+		s1.setSid("421121104022");
+		s1.setSname("Dhineshkumar");
 		s1.setCourse("B.E");
 		s1.setStream("ECE");
 		s1.setGradyear("2025");
 		s1.setMobno("9600250499");
 		
-		s2.setSid("421121104005");
-		s2.setSname("Arigaran");
+		s2.setSid("421121104001");
+		s2.setSname("ak");
 		s2.setCourse("B.E");
 		s2.setStream("ECE");
 		s2.setGradyear("2025");
 		s2.setMobno("9324564345");
 		
-		s3.setSid("421121104007");
-		s3.setSname("Dhoni");
+		s3.setSid("4211211040040");
+		s3.setSname("harish load");
 		s3.setCourse("B.Tech");
 		s3.setStream("ECE");
 		s3.setGradyear("2025");

@@ -11,23 +11,23 @@ public class CustomerExecuter {
 		Customer c4 = new Customer();
 		Customer c5 = new Customer();
 		
-		c1.setCid(4004);
-		c1.setCname("alwin donald");
-		c1.setAddress("1A, Pallavan street ,vikravandi");
+		c1.setCid(4022);
+		c1.setCname("dhinesh");
+		c1.setAddress("gedilam");
 		c1.setCity("villupuram");
 		
-		c2.setCid(4005);
-		c2.setCname("Pain");
+		c2.setCid(4001);
+		c2.setCname("ak");
 		c2.setAddress("hidden rain village");
 		c2.setCity("Land of Mist");
 		
-		c3.setCid(4006);
-		c3.setCname("naruto");
+		c3.setCid(4040);
+		c3.setCname("harish");
 		c3.setAddress("Hidden Leaf,Konoha");
 		c3.setCity("Land of Fire");
 		
-		c4.setCid(4007);
-		c4.setCname("Dhoni");
+		c4.setCid(40013);
+		c4.setCname("balamurugan");
 		c4.setAddress("lion's Cave , chapack");
 		c4.setCity("Chennai");
 		
